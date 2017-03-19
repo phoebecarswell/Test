@@ -1,0 +1,97 @@
+body {
+background-color: #441e13;
+}
+
+div {
+outline: yellow 1px solid;
+}
+
+.LogoContainer {
+  max-width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  overflow: hidden;
+}
+
+.Logo {
+  width: 205px;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+  float: left;
+}
+
+.slogan {
+  width: 350px;
+  float: left;
+  color: #a37671;
+  margin-top: 15px;
+
+}
+
+.nav {
+  margin-top: 20px;
+  max-width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(0, 0, 0, 0.25);
+  height: 62px;
+}
+
+.nav ol {
+  padding: 18px 10px;
+}
+
+
+
+
+.nav li {
+  border-right: 1px solid #D4B364;
+  color: white;
+  padding: 6px 20px;
+  display: block;
+  float: left;
+  color: white;
+  }
+
+.nav li:last-child{
+  border-right: none;
+
+}
+
+.aboutcontainer {
+max-width: 920px;
+margin-left: auto;
+margin-right: auto;
+height: 218px;
+background-color: #87a984;
+margin-top: 10px;
+}
+
+.about {
+width: 138px;
+height: 38px;
+margin-left: 350px;
+font-weight: bold;
+font-size: 2rem;
+color: white;
+}
+
+.text{
+  width: 320px;
+  margin-left: 350px;
+  margin-top: 60px;
+  color: white;
+  font-size: 0.8rem;
+}
+
+.menucontainer {
+  max-width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 7px;
+  height: 614px;
+  background-color: #96afac;
+overflow: hidden;
+}
